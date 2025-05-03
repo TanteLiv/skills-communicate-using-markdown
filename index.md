@@ -21,7 +21,13 @@
 ```javascript
 
 var myVar = "Hello, world!";
-var myVar = " This is a beginner test using Javascript in a Markdown file"; 
+var myVar = " This is a beginner test using Javascript in a Markdown file";
+
+# TASK LIST
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world
 
 
 
