@@ -18,22 +18,10 @@
 
 
 ## Testing some code
+```javascript
+
 var myVar = "Hello, world!";
-
-# Welcome to my Github Page
-
-This is a beginner test using Javascript in a Markdown file
-
-<button onclick="showMessage()">Click me!</button>
-<p id="output"></p>
-
-<script>
-  
-
-  function showMessage() {
-    document.getElementById("output").innerText = "Hello from Javascript!";
-  }
-</script>
+var myVar = " This is a beginner test using Javascript in a Markdown file"; 
 
 
 
